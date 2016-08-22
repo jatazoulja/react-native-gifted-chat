@@ -44,8 +44,8 @@ const styles = {
       marginRight: 8,
     },
     image: {
-      height: 36,
-      width: 36,
+      height: 40,
+      width: 40,
       borderRadius: 18,
     },
   }),
@@ -54,8 +54,8 @@ const styles = {
       marginLeft: 8,
     },
     image: {
-      height: 36,
-      width: 36,
+      height: 40,
+      width: 40,
       borderRadius: 18,
     },
   }),
